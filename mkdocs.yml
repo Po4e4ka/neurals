@@ -1,0 +1,23 @@
+site_name: Neural Networks Catalog
+nav:
+  - Главная: index.md
+  - Нейронки: neural_networks.md
+
+plugins:
+  - search:
+      prebuild_index: true
+
+extra:
+  nav:
+    - link: neural_networks.md
+      title: Neural Networks
+      description: Collection of useful neural networks
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.indexes
+
+markdown_extensions:
+  - tables
