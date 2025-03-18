@@ -8,3 +8,4 @@
 | BERT             | NLP    | [GitHub](https://github.com/google-research/bert) | Обработка естественного языка |
 | Hailuo Audio     | Speech | [Haulio](https://www.hailuo.ai/audio)             | Генерация звука из текста     |
 | Hailuo Chat      | NLP    | [Haulio](https://www.hailuo.ai)                   | Генерация звука из текста     |
+| VAST AI          | Design    | [Vast](https://huggingface.co/spaces/VAST-AI/MIDI-3D)                   | 3д модели из фото  |
